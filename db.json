@@ -1,0 +1,32 @@
+{
+  "clientes": [
+    {
+      "nombre": "toto",
+      "telefono": "t",
+      "empresa": "the best time ",
+      "correo": "t",
+      "id": 2
+    },
+    {
+      "nombre": "t",
+      "telefono": "t",
+      "empresa": "the best time ",
+      "correo": "t",
+      "id": 3
+    },
+    {
+      "nombre": "t",
+      "telefono": "t",
+      "empresa": "the best time ",
+      "correo": "t",
+      "id": 4
+    },
+    {
+      "nombre": "tom",
+      "telefono": "444",
+      "empresa": "yay ",
+      "correo": "ttt",
+      "id": 5
+    }
+  ]
+}
